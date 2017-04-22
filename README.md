@@ -7,3 +7,4 @@ easy to use
 4-enter how many acount in userandpass.txt
 and willl follow you easy 
 made by 7rb
+thank you
